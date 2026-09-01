@@ -49,23 +49,12 @@ Ingests raw CSV data as-is into a Delta table using Databricks Autoloader (`clou
 
 Selects relevant columns and removes duplicate orders (based on `Order_ID`).
 
-```
-
-**Transformations applied:**
-- Selected only business-relevant columns (dropped `Date` — add back if time-based trends needed)
-- Deduplicated on `Order_ID` to ensure one record per order
 
 ---
 
 ##  Gold Layer — Business Aggregations
 
 Four aggregated tables built on top of `sales_silver`, each serving a different business reporting need.
-
-
-```
-
-
-**Business use:** Distinguishes realized revenue (Completed) from at-risk / in-pipeline revenue (Pending/Processing/Shipped) — useful for operational bottleneck tracking.
 
 ---
 
