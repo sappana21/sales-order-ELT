@@ -1,0 +1,501 @@
+Order_ID,Date,Customer,Product,Category,Quantity,Unit_Price,Total,Region,Status
+ORD-000001,2/2/2024,Customer 1,Wireless Mouse,Accessories,2,46.99,93.98,South,Completed
+ORD-000002,3/3/2023,Customer 2,"Monitor 27""",Furniture,3,63.99,191.97,East,Pending
+ORD-000003,4/4/2024,Customer 3,Keyboard,Office,4,80.99,323.96,West,Shipped
+ORD-000004,5/5/2023,Customer 4,Webcam HD,Electronics,5,97.99,489.95,Central,Processing
+ORD-000005,6/6/2024,Customer 5,Headphones,Accessories,6,114.99,689.94,North,Completed
+ORD-000006,7/7/2023,Customer 6,USB Hub,Furniture,7,131.99,923.93,South,Completed
+ORD-000007,8/8/2024,Customer 7,Desk Chair,Office,8,148.99,1191.92,East,Pending
+ORD-000008,9/9/2023,Customer 8,Standing Desk,Electronics,9,165.99,1493.91,West,Shipped
+ORD-000009,10/10/2024,Customer 9,Tablet,Accessories,10,182.99,1829.9,Central,Processing
+ORD-000010,11/11/2023,Customer 10,Laptop Pro,Furniture,11,199.99,2199.89,North,Completed
+ORD-000011,12/12/2024,Customer 11,Wireless Mouse,Office,12,216.99,2603.88,South,Completed
+ORD-000012,1/13/2023,Customer 12,"Monitor 27""",Electronics,13,233.99,3041.87,East,Pending
+ORD-000013,2/14/2024,Customer 13,Keyboard,Accessories,14,250.99,3513.86,West,Shipped
+ORD-000014,3/15/2023,Customer 14,Webcam HD,Furniture,15,267.99,4019.85,Central,Processing
+ORD-000015,4/16/2024,Customer 15,Headphones,Office,16,284.99,4559.84,North,Completed
+ORD-000016,5/17/2023,Customer 16,USB Hub,Electronics,17,301.99,5133.83,South,Completed
+ORD-000017,6/18/2024,Customer 17,Desk Chair,Accessories,18,318.99,5741.82,East,Pending
+ORD-000018,7/19/2023,Customer 18,Standing Desk,Furniture,19,335.99,6383.81,West,Shipped
+ORD-000019,8/20/2024,Customer 19,Tablet,Office,20,352.99,7059.8,Central,Processing
+ORD-000020,9/21/2023,Customer 20,Laptop Pro,Electronics,1,369.99,369.99,North,Completed
+ORD-000021,10/22/2024,Customer 21,Wireless Mouse,Accessories,2,386.99,773.98,South,Completed
+ORD-000022,11/23/2023,Customer 22,"Monitor 27""",Furniture,3,403.99,1211.97,East,Pending
+ORD-000023,12/24/2024,Customer 23,Keyboard,Office,4,420.99,1683.96,West,Shipped
+ORD-000024,1/25/2023,Customer 24,Webcam HD,Electronics,5,437.99,2189.95,Central,Processing
+ORD-000025,2/26/2024,Customer 25,Headphones,Accessories,6,454.99,2729.94,North,Completed
+ORD-000026,3/27/2023,Customer 26,USB Hub,Furniture,7,471.99,3303.93,South,Completed
+ORD-000027,4/28/2024,Customer 27,Desk Chair,Office,8,488.99,3911.92,East,Pending
+ORD-000028,5/1/2023,Customer 28,Standing Desk,Electronics,9,505.99,4553.91,West,Shipped
+ORD-000029,6/2/2024,Customer 29,Tablet,Accessories,10,522.99,5229.9,Central,Processing
+ORD-000030,7/3/2023,Customer 30,Laptop Pro,Furniture,11,39.99,439.89,North,Completed
+ORD-000031,8/4/2024,Customer 31,Wireless Mouse,Office,12,56.99,683.88,South,Completed
+ORD-000032,9/5/2023,Customer 32,"Monitor 27""",Electronics,13,73.99,961.87,East,Pending
+ORD-000033,10/6/2024,Customer 33,Keyboard,Accessories,14,90.99,1273.86,West,Shipped
+ORD-000034,11/7/2023,Customer 34,Webcam HD,Furniture,15,107.99,1619.85,Central,Processing
+ORD-000035,12/8/2024,Customer 35,Headphones,Office,16,124.99,1999.84,North,Completed
+ORD-000036,1/9/2023,Customer 36,USB Hub,Electronics,17,141.99,2413.83,South,Completed
+ORD-000037,2/10/2024,Customer 37,Desk Chair,Accessories,18,158.99,2861.82,East,Pending
+ORD-000038,3/11/2023,Customer 38,Standing Desk,Furniture,19,175.99,3343.81,West,Shipped
+ORD-000039,4/12/2024,Customer 39,Tablet,Office,20,192.99,3859.8,Central,Processing
+ORD-000040,5/13/2023,Customer 40,Laptop Pro,Electronics,1,209.99,209.99,North,Completed
+ORD-000041,6/14/2024,Customer 41,Wireless Mouse,Accessories,2,226.99,453.98,South,Completed
+ORD-000042,7/15/2023,Customer 42,"Monitor 27""",Furniture,3,243.99,731.97,East,Pending
+ORD-000043,8/16/2024,Customer 43,Keyboard,Office,4,260.99,1043.96,West,Shipped
+ORD-000044,9/17/2023,Customer 44,Webcam HD,Electronics,5,277.99,1389.95,Central,Processing
+ORD-000045,10/18/2024,Customer 45,Headphones,Accessories,6,294.99,1769.94,North,Completed
+ORD-000046,11/19/2023,Customer 46,USB Hub,Furniture,7,311.99,2183.93,South,Completed
+ORD-000047,12/20/2024,Customer 47,Desk Chair,Office,8,328.99,2631.92,East,Pending
+ORD-000048,1/21/2023,Customer 48,Standing Desk,Electronics,9,345.99,3113.91,West,Shipped
+ORD-000049,2/22/2024,Customer 49,Tablet,Accessories,10,362.99,3629.9,Central,Processing
+ORD-000050,3/23/2023,Customer 50,Laptop Pro,Furniture,11,379.99,4179.89,North,Completed
+ORD-000051,4/24/2024,Customer 51,Wireless Mouse,Office,12,396.99,4763.88,South,Completed
+ORD-000052,5/25/2023,Customer 52,"Monitor 27""",Electronics,13,413.99,5381.87,East,Pending
+ORD-000053,6/26/2024,Customer 53,Keyboard,Accessories,14,430.99,6033.86,West,Shipped
+ORD-000054,7/27/2023,Customer 54,Webcam HD,Furniture,15,447.99,6719.85,Central,Processing
+ORD-000055,8/28/2024,Customer 55,Headphones,Office,16,464.99,7439.84,North,Completed
+ORD-000056,9/1/2023,Customer 56,USB Hub,Electronics,17,481.99,8193.83,South,Completed
+ORD-000057,10/2/2024,Customer 57,Desk Chair,Accessories,18,498.99,8981.82,East,Pending
+ORD-000058,11/3/2023,Customer 58,Standing Desk,Furniture,19,515.99,9803.81,West,Shipped
+ORD-000059,12/4/2024,Customer 59,Tablet,Office,20,32.99,659.8,Central,Processing
+ORD-000060,1/5/2023,Customer 60,Laptop Pro,Electronics,1,49.99,49.99,North,Completed
+ORD-000061,2/6/2024,Customer 61,Wireless Mouse,Accessories,2,66.99,133.98,South,Completed
+ORD-000062,3/7/2023,Customer 62,"Monitor 27""",Furniture,3,83.99,251.97,East,Pending
+ORD-000063,4/8/2024,Customer 63,Keyboard,Office,4,100.99,403.96,West,Shipped
+ORD-000064,5/9/2023,Customer 64,Webcam HD,Electronics,5,117.99,589.95,Central,Processing
+ORD-000065,6/10/2024,Customer 65,Headphones,Accessories,6,134.99,809.94,North,Completed
+ORD-000066,7/11/2023,Customer 66,USB Hub,Furniture,7,151.99,1063.93,South,Completed
+ORD-000067,8/12/2024,Customer 67,Desk Chair,Office,8,168.99,1351.92,East,Pending
+ORD-000068,9/13/2023,Customer 68,Standing Desk,Electronics,9,185.99,1673.91,West,Shipped
+ORD-000069,10/14/2024,Customer 69,Tablet,Accessories,10,202.99,2029.9,Central,Processing
+ORD-000070,11/15/2023,Customer 70,Laptop Pro,Furniture,11,219.99,2419.89,North,Completed
+ORD-000071,12/16/2024,Customer 71,Wireless Mouse,Office,12,236.99,2843.88,South,Completed
+ORD-000072,1/17/2023,Customer 72,"Monitor 27""",Electronics,13,253.99,3301.87,East,Pending
+ORD-000073,2/18/2024,Customer 73,Keyboard,Accessories,14,270.99,3793.86,West,Shipped
+ORD-000074,3/19/2023,Customer 74,Webcam HD,Furniture,15,287.99,4319.85,Central,Processing
+ORD-000075,4/20/2024,Customer 75,Headphones,Office,16,304.99,4879.84,North,Completed
+ORD-000076,5/21/2023,Customer 76,USB Hub,Electronics,17,321.99,5473.83,South,Completed
+ORD-000077,6/22/2024,Customer 77,Desk Chair,Accessories,18,338.99,6101.82,East,Pending
+ORD-000078,7/23/2023,Customer 78,Standing Desk,Furniture,19,355.99,6763.81,West,Shipped
+ORD-000079,8/24/2024,Customer 79,Tablet,Office,20,372.99,7459.8,Central,Processing
+ORD-000080,9/25/2023,Customer 80,Laptop Pro,Electronics,1,389.99,389.99,North,Completed
+ORD-000081,10/26/2024,Customer 81,Wireless Mouse,Accessories,2,406.99,813.98,South,Completed
+ORD-000082,11/27/2023,Customer 82,"Monitor 27""",Furniture,3,423.99,1271.97,East,Pending
+ORD-000083,12/28/2024,Customer 83,Keyboard,Office,4,440.99,1763.96,West,Shipped
+ORD-000084,1/1/2023,Customer 84,Webcam HD,Electronics,5,457.99,2289.95,Central,Processing
+ORD-000085,2/2/2024,Customer 85,Headphones,Accessories,6,474.99,2849.94,North,Completed
+ORD-000086,3/3/2023,Customer 86,USB Hub,Furniture,7,491.99,3443.93,South,Completed
+ORD-000087,4/4/2024,Customer 87,Desk Chair,Office,8,508.99,4071.92,East,Pending
+ORD-000088,5/5/2023,Customer 88,Standing Desk,Electronics,9,525.99,4733.91,West,Shipped
+ORD-000089,6/6/2024,Customer 89,Tablet,Accessories,10,42.99,429.9,Central,Processing
+ORD-000090,7/7/2023,Customer 90,Laptop Pro,Furniture,11,59.99,659.89,North,Completed
+ORD-000091,8/8/2024,Customer 91,Wireless Mouse,Office,12,76.99,923.88,South,Completed
+ORD-000092,9/9/2023,Customer 92,"Monitor 27""",Electronics,13,93.99,1221.87,East,Pending
+ORD-000093,10/10/2024,Customer 93,Keyboard,Accessories,14,110.99,1553.86,West,Shipped
+ORD-000094,11/11/2023,Customer 94,Webcam HD,Furniture,15,127.99,1919.85,Central,Processing
+ORD-000095,12/12/2024,Customer 95,Headphones,Office,16,144.99,2319.84,North,Completed
+ORD-000096,1/13/2023,Customer 96,USB Hub,Electronics,17,161.99,2753.83,South,Completed
+ORD-000097,2/14/2024,Customer 97,Desk Chair,Accessories,18,178.99,3221.82,East,Pending
+ORD-000098,3/15/2023,Customer 98,Standing Desk,Furniture,19,195.99,3723.81,West,Shipped
+ORD-000099,4/16/2024,Customer 99,Tablet,Office,20,212.99,4259.8,Central,Processing
+ORD-000100,5/17/2023,Customer 100,Laptop Pro,Electronics,1,229.99,229.99,North,Completed
+ORD-000101,6/18/2024,Customer 101,Wireless Mouse,Accessories,2,246.99,493.98,South,Completed
+ORD-000102,7/19/2023,Customer 102,"Monitor 27""",Furniture,3,263.99,791.97,East,Pending
+ORD-000103,8/20/2024,Customer 103,Keyboard,Office,4,280.99,1123.96,West,Shipped
+ORD-000104,9/21/2023,Customer 104,Webcam HD,Electronics,5,297.99,1489.95,Central,Processing
+ORD-000105,10/22/2024,Customer 105,Headphones,Accessories,6,314.99,1889.94,North,Completed
+ORD-000106,11/23/2023,Customer 106,USB Hub,Furniture,7,331.99,2323.93,South,Completed
+ORD-000107,12/24/2024,Customer 107,Desk Chair,Office,8,348.99,2791.92,East,Pending
+ORD-000108,1/25/2023,Customer 108,Standing Desk,Electronics,9,365.99,3293.91,West,Shipped
+ORD-000109,2/26/2024,Customer 109,Tablet,Accessories,10,382.99,3829.9,Central,Processing
+ORD-000110,3/27/2023,Customer 110,Laptop Pro,Furniture,11,399.99,4399.89,North,Completed
+ORD-000111,4/28/2024,Customer 111,Wireless Mouse,Office,12,416.99,5003.88,South,Completed
+ORD-000112,5/1/2023,Customer 112,"Monitor 27""",Electronics,13,433.99,5641.87,East,Pending
+ORD-000113,6/2/2024,Customer 113,Keyboard,Accessories,14,450.99,6313.86,West,Shipped
+ORD-000114,7/3/2023,Customer 114,Webcam HD,Furniture,15,467.99,7019.85,Central,Processing
+ORD-000115,8/4/2024,Customer 115,Headphones,Office,16,484.99,7759.84,North,Completed
+ORD-000116,9/5/2023,Customer 116,USB Hub,Electronics,17,501.99,8533.83,South,Completed
+ORD-000117,10/6/2024,Customer 117,Desk Chair,Accessories,18,518.99,9341.82,East,Pending
+ORD-000118,11/7/2023,Customer 118,Standing Desk,Furniture,19,35.99,683.81,West,Shipped
+ORD-000119,12/8/2024,Customer 119,Tablet,Office,20,52.99,1059.8,Central,Processing
+ORD-000120,1/9/2023,Customer 120,Laptop Pro,Electronics,1,69.99,69.99,North,Completed
+ORD-000121,2/10/2024,Customer 121,Wireless Mouse,Accessories,2,86.99,173.98,South,Completed
+ORD-000122,3/11/2023,Customer 122,"Monitor 27""",Furniture,3,103.99,311.97,East,Pending
+ORD-000123,4/12/2024,Customer 123,Keyboard,Office,4,120.99,483.96,West,Shipped
+ORD-000124,5/13/2023,Customer 124,Webcam HD,Electronics,5,137.99,689.95,Central,Processing
+ORD-000125,6/14/2024,Customer 125,Headphones,Accessories,6,154.99,929.94,North,Completed
+ORD-000126,7/15/2023,Customer 126,USB Hub,Furniture,7,171.99,1203.93,South,Completed
+ORD-000127,8/16/2024,Customer 127,Desk Chair,Office,8,188.99,1511.92,East,Pending
+ORD-000128,9/17/2023,Customer 128,Standing Desk,Electronics,9,205.99,1853.91,West,Shipped
+ORD-000129,10/18/2024,Customer 129,Tablet,Accessories,10,222.99,2229.9,Central,Processing
+ORD-000130,11/19/2023,Customer 130,Laptop Pro,Furniture,11,239.99,2639.89,North,Completed
+ORD-000131,12/20/2024,Customer 131,Wireless Mouse,Office,12,256.99,3083.88,South,Completed
+ORD-000132,1/21/2023,Customer 132,"Monitor 27""",Electronics,13,273.99,3561.87,East,Pending
+ORD-000133,2/22/2024,Customer 133,Keyboard,Accessories,14,290.99,4073.86,West,Shipped
+ORD-000134,3/23/2023,Customer 134,Webcam HD,Furniture,15,307.99,4619.85,Central,Processing
+ORD-000135,4/24/2024,Customer 135,Headphones,Office,16,324.99,5199.84,North,Completed
+ORD-000136,5/25/2023,Customer 136,USB Hub,Electronics,17,341.99,5813.83,South,Completed
+ORD-000137,6/26/2024,Customer 137,Desk Chair,Accessories,18,358.99,6461.82,East,Pending
+ORD-000138,7/27/2023,Customer 138,Standing Desk,Furniture,19,375.99,7143.81,West,Shipped
+ORD-000139,8/28/2024,Customer 139,Tablet,Office,20,392.99,7859.8,Central,Processing
+ORD-000140,9/1/2023,Customer 140,Laptop Pro,Electronics,1,409.99,409.99,North,Completed
+ORD-000141,10/2/2024,Customer 141,Wireless Mouse,Accessories,2,426.99,853.98,South,Completed
+ORD-000142,11/3/2023,Customer 142,"Monitor 27""",Furniture,3,443.99,1331.97,East,Pending
+ORD-000143,12/4/2024,Customer 143,Keyboard,Office,4,460.99,1843.96,West,Shipped
+ORD-000144,1/5/2023,Customer 144,Webcam HD,Electronics,5,477.99,2389.95,Central,Processing
+ORD-000145,2/6/2024,Customer 145,Headphones,Accessories,6,494.99,2969.94,North,Completed
+ORD-000146,3/7/2023,Customer 146,USB Hub,Furniture,7,511.99,3583.93,South,Completed
+ORD-000147,4/8/2024,Customer 147,Desk Chair,Office,8,528.99,4231.92,East,Pending
+ORD-000148,5/9/2023,Customer 148,Standing Desk,Electronics,9,45.99,413.91,West,Shipped
+ORD-000149,6/10/2024,Customer 149,Tablet,Accessories,10,62.99,629.9,Central,Processing
+ORD-000150,7/11/2023,Customer 150,Laptop Pro,Furniture,11,79.99,879.89,North,Completed
+ORD-000151,8/12/2024,Customer 151,Wireless Mouse,Office,12,96.99,1163.88,South,Completed
+ORD-000152,9/13/2023,Customer 152,"Monitor 27""",Electronics,13,113.99,1481.87,East,Pending
+ORD-000153,10/14/2024,Customer 153,Keyboard,Accessories,14,130.99,1833.86,West,Shipped
+ORD-000154,11/15/2023,Customer 154,Webcam HD,Furniture,15,147.99,2219.85,Central,Processing
+ORD-000155,12/16/2024,Customer 155,Headphones,Office,16,164.99,2639.84,North,Completed
+ORD-000156,1/17/2023,Customer 156,USB Hub,Electronics,17,181.99,3093.83,South,Completed
+ORD-000157,2/18/2024,Customer 157,Desk Chair,Accessories,18,198.99,3581.82,East,Pending
+ORD-000158,3/19/2023,Customer 158,Standing Desk,Furniture,19,215.99,4103.81,West,Shipped
+ORD-000159,4/20/2024,Customer 159,Tablet,Office,20,232.99,4659.8,Central,Processing
+ORD-000160,5/21/2023,Customer 160,Laptop Pro,Electronics,1,249.99,249.99,North,Completed
+ORD-000161,6/22/2024,Customer 161,Wireless Mouse,Accessories,2,266.99,533.98,South,Completed
+ORD-000162,7/23/2023,Customer 162,"Monitor 27""",Furniture,3,283.99,851.97,East,Pending
+ORD-000163,8/24/2024,Customer 163,Keyboard,Office,4,300.99,1203.96,West,Shipped
+ORD-000164,9/25/2023,Customer 164,Webcam HD,Electronics,5,317.99,1589.95,Central,Processing
+ORD-000165,10/26/2024,Customer 165,Headphones,Accessories,6,334.99,2009.94,North,Completed
+ORD-000166,11/27/2023,Customer 166,USB Hub,Furniture,7,351.99,2463.93,South,Completed
+ORD-000167,12/28/2024,Customer 167,Desk Chair,Office,8,368.99,2951.92,East,Pending
+ORD-000168,1/1/2023,Customer 168,Standing Desk,Electronics,9,385.99,3473.91,West,Shipped
+ORD-000169,2/2/2024,Customer 169,Tablet,Accessories,10,402.99,4029.9,Central,Processing
+ORD-000170,3/3/2023,Customer 170,Laptop Pro,Furniture,11,419.99,4619.89,North,Completed
+ORD-000171,4/4/2024,Customer 171,Wireless Mouse,Office,12,436.99,5243.88,South,Completed
+ORD-000172,5/5/2023,Customer 172,"Monitor 27""",Electronics,13,453.99,5901.87,East,Pending
+ORD-000173,6/6/2024,Customer 173,Keyboard,Accessories,14,470.99,6593.86,West,Shipped
+ORD-000174,7/7/2023,Customer 174,Webcam HD,Furniture,15,487.99,7319.85,Central,Processing
+ORD-000175,8/8/2024,Customer 175,Headphones,Office,16,504.99,8079.84,North,Completed
+ORD-000176,9/9/2023,Customer 176,USB Hub,Electronics,17,521.99,8873.83,South,Completed
+ORD-000177,10/10/2024,Customer 177,Desk Chair,Accessories,18,38.99,701.82,East,Pending
+ORD-000178,11/11/2023,Customer 178,Standing Desk,Furniture,19,55.99,1063.81,West,Shipped
+ORD-000179,12/12/2024,Customer 179,Tablet,Office,20,72.99,1459.8,Central,Processing
+ORD-000180,1/13/2023,Customer 180,Laptop Pro,Electronics,1,89.99,89.99,North,Completed
+ORD-000181,2/14/2024,Customer 181,Wireless Mouse,Accessories,2,106.99,213.98,South,Completed
+ORD-000182,3/15/2023,Customer 182,"Monitor 27""",Furniture,3,123.99,371.97,East,Pending
+ORD-000183,4/16/2024,Customer 183,Keyboard,Office,4,140.99,563.96,West,Shipped
+ORD-000184,5/17/2023,Customer 184,Webcam HD,Electronics,5,157.99,789.95,Central,Processing
+ORD-000185,6/18/2024,Customer 185,Headphones,Accessories,6,174.99,1049.94,North,Completed
+ORD-000186,7/19/2023,Customer 186,USB Hub,Furniture,7,191.99,1343.93,South,Completed
+ORD-000187,8/20/2024,Customer 187,Desk Chair,Office,8,208.99,1671.92,East,Pending
+ORD-000188,9/21/2023,Customer 188,Standing Desk,Electronics,9,225.99,2033.91,West,Shipped
+ORD-000189,10/22/2024,Customer 189,Tablet,Accessories,10,242.99,2429.9,Central,Processing
+ORD-000190,11/23/2023,Customer 190,Laptop Pro,Furniture,11,259.99,2859.89,North,Completed
+ORD-000191,12/24/2024,Customer 191,Wireless Mouse,Office,12,276.99,3323.88,South,Completed
+ORD-000192,1/25/2023,Customer 192,"Monitor 27""",Electronics,13,293.99,3821.87,East,Pending
+ORD-000193,2/26/2024,Customer 193,Keyboard,Accessories,14,310.99,4353.86,West,Shipped
+ORD-000194,3/27/2023,Customer 194,Webcam HD,Furniture,15,327.99,4919.85,Central,Processing
+ORD-000195,4/28/2024,Customer 195,Headphones,Office,16,344.99,5519.84,North,Completed
+ORD-000196,5/1/2023,Customer 196,USB Hub,Electronics,17,361.99,6153.83,South,Completed
+ORD-000197,6/2/2024,Customer 197,Desk Chair,Accessories,18,378.99,6821.82,East,Pending
+ORD-000198,7/3/2023,Customer 198,Standing Desk,Furniture,19,395.99,7523.81,West,Shipped
+ORD-000199,8/4/2024,Customer 199,Tablet,Office,20,412.99,8259.8,Central,Processing
+ORD-000200,9/5/2023,Customer 200,Laptop Pro,Electronics,1,429.99,429.99,North,Completed
+ORD-000201,10/6/2024,Customer 201,Wireless Mouse,Accessories,2,446.99,893.98,South,Completed
+ORD-000202,11/7/2023,Customer 202,"Monitor 27""",Furniture,3,463.99,1391.97,East,Pending
+ORD-000203,12/8/2024,Customer 203,Keyboard,Office,4,480.99,1923.96,West,Shipped
+ORD-000204,1/9/2023,Customer 204,Webcam HD,Electronics,5,497.99,2489.95,Central,Processing
+ORD-000205,2/10/2024,Customer 205,Headphones,Accessories,6,514.99,3089.94,North,Completed
+ORD-000206,3/11/2023,Customer 206,USB Hub,Furniture,7,31.99,223.93,South,Completed
+ORD-000207,4/12/2024,Customer 207,Desk Chair,Office,8,48.99,391.92,East,Pending
+ORD-000208,5/13/2023,Customer 208,Standing Desk,Electronics,9,65.99,593.91,West,Shipped
+ORD-000209,6/14/2024,Customer 209,Tablet,Accessories,10,82.99,829.9,Central,Processing
+ORD-000210,7/15/2023,Customer 210,Laptop Pro,Furniture,11,99.99,1099.89,North,Completed
+ORD-000211,8/16/2024,Customer 211,Wireless Mouse,Office,12,116.99,1403.88,South,Completed
+ORD-000212,9/17/2023,Customer 212,"Monitor 27""",Electronics,13,133.99,1741.87,East,Pending
+ORD-000213,10/18/2024,Customer 213,Keyboard,Accessories,14,150.99,2113.86,West,Shipped
+ORD-000214,11/19/2023,Customer 214,Webcam HD,Furniture,15,167.99,2519.85,Central,Processing
+ORD-000215,12/20/2024,Customer 215,Headphones,Office,16,184.99,2959.84,North,Completed
+ORD-000216,1/21/2023,Customer 216,USB Hub,Electronics,17,201.99,3433.83,South,Completed
+ORD-000217,2/22/2024,Customer 217,Desk Chair,Accessories,18,218.99,3941.82,East,Pending
+ORD-000218,3/23/2023,Customer 218,Standing Desk,Furniture,19,235.99,4483.81,West,Shipped
+ORD-000219,4/24/2024,Customer 219,Tablet,Office,20,252.99,5059.8,Central,Processing
+ORD-000220,5/25/2023,Customer 220,Laptop Pro,Electronics,1,269.99,269.99,North,Completed
+ORD-000221,6/26/2024,Customer 221,Wireless Mouse,Accessories,2,286.99,573.98,South,Completed
+ORD-000222,7/27/2023,Customer 222,"Monitor 27""",Furniture,3,303.99,911.97,East,Pending
+ORD-000223,8/28/2024,Customer 223,Keyboard,Office,4,320.99,1283.96,West,Shipped
+ORD-000224,9/1/2023,Customer 224,Webcam HD,Electronics,5,337.99,1689.95,Central,Processing
+ORD-000225,10/2/2024,Customer 225,Headphones,Accessories,6,354.99,2129.94,North,Completed
+ORD-000226,11/3/2023,Customer 226,USB Hub,Furniture,7,371.99,2603.93,South,Completed
+ORD-000227,12/4/2024,Customer 227,Desk Chair,Office,8,388.99,3111.92,East,Pending
+ORD-000228,1/5/2023,Customer 228,Standing Desk,Electronics,9,405.99,3653.91,West,Shipped
+ORD-000229,2/6/2024,Customer 229,Tablet,Accessories,10,422.99,4229.9,Central,Processing
+ORD-000230,3/7/2023,Customer 230,Laptop Pro,Furniture,11,439.99,4839.89,North,Completed
+ORD-000231,4/8/2024,Customer 231,Wireless Mouse,Office,12,456.99,5483.88,South,Completed
+ORD-000232,5/9/2023,Customer 232,"Monitor 27""",Electronics,13,473.99,6161.87,East,Pending
+ORD-000233,6/10/2024,Customer 233,Keyboard,Accessories,14,490.99,6873.86,West,Shipped
+ORD-000234,7/11/2023,Customer 234,Webcam HD,Furniture,15,507.99,7619.85,Central,Processing
+ORD-000235,8/12/2024,Customer 235,Headphones,Office,16,524.99,8399.84,North,Completed
+ORD-000236,9/13/2023,Customer 236,USB Hub,Electronics,17,41.99,713.83,South,Completed
+ORD-000237,10/14/2024,Customer 237,Desk Chair,Accessories,18,58.99,1061.82,East,Pending
+ORD-000238,11/15/2023,Customer 238,Standing Desk,Furniture,19,75.99,1443.81,West,Shipped
+ORD-000239,12/16/2024,Customer 239,Tablet,Office,20,92.99,1859.8,Central,Processing
+ORD-000240,1/17/2023,Customer 240,Laptop Pro,Electronics,1,109.99,109.99,North,Completed
+ORD-000241,2/18/2024,Customer 241,Wireless Mouse,Accessories,2,126.99,253.98,South,Completed
+ORD-000242,3/19/2023,Customer 242,"Monitor 27""",Furniture,3,143.99,431.97,East,Pending
+ORD-000243,4/20/2024,Customer 243,Keyboard,Office,4,160.99,643.96,West,Shipped
+ORD-000244,5/21/2023,Customer 244,Webcam HD,Electronics,5,177.99,889.95,Central,Processing
+ORD-000245,6/22/2024,Customer 245,Headphones,Accessories,6,194.99,1169.94,North,Completed
+ORD-000246,7/23/2023,Customer 246,USB Hub,Furniture,7,211.99,1483.93,South,Completed
+ORD-000247,8/24/2024,Customer 247,Desk Chair,Office,8,228.99,1831.92,East,Pending
+ORD-000248,9/25/2023,Customer 248,Standing Desk,Electronics,9,245.99,2213.91,West,Shipped
+ORD-000249,10/26/2024,Customer 249,Tablet,Accessories,10,262.99,2629.9,Central,Processing
+ORD-000250,11/27/2023,Customer 250,Laptop Pro,Furniture,11,279.99,3079.89,North,Completed
+ORD-000251,12/28/2024,Customer 251,Wireless Mouse,Office,12,296.99,3563.88,South,Completed
+ORD-000252,1/1/2023,Customer 252,"Monitor 27""",Electronics,13,313.99,4081.87,East,Pending
+ORD-000253,2/2/2024,Customer 253,Keyboard,Accessories,14,330.99,4633.86,West,Shipped
+ORD-000254,3/3/2023,Customer 254,Webcam HD,Furniture,15,347.99,5219.85,Central,Processing
+ORD-000255,4/4/2024,Customer 255,Headphones,Office,16,364.99,5839.84,North,Completed
+ORD-000256,5/5/2023,Customer 256,USB Hub,Electronics,17,381.99,6493.83,South,Completed
+ORD-000257,6/6/2024,Customer 257,Desk Chair,Accessories,18,398.99,7181.82,East,Pending
+ORD-000258,7/7/2023,Customer 258,Standing Desk,Furniture,19,415.99,7903.81,West,Shipped
+ORD-000259,8/8/2024,Customer 259,Tablet,Office,20,432.99,8659.8,Central,Processing
+ORD-000260,9/9/2023,Customer 260,Laptop Pro,Electronics,1,449.99,449.99,North,Completed
+ORD-000261,10/10/2024,Customer 261,Wireless Mouse,Accessories,2,466.99,933.98,South,Completed
+ORD-000262,11/11/2023,Customer 262,"Monitor 27""",Furniture,3,483.99,1451.97,East,Pending
+ORD-000263,12/12/2024,Customer 263,Keyboard,Office,4,500.99,2003.96,West,Shipped
+ORD-000264,1/13/2023,Customer 264,Webcam HD,Electronics,5,517.99,2589.95,Central,Processing
+ORD-000265,2/14/2024,Customer 265,Headphones,Accessories,6,34.99,209.94,North,Completed
+ORD-000266,3/15/2023,Customer 266,USB Hub,Furniture,7,51.99,363.93,South,Completed
+ORD-000267,4/16/2024,Customer 267,Desk Chair,Office,8,68.99,551.92,East,Pending
+ORD-000268,5/17/2023,Customer 268,Standing Desk,Electronics,9,85.99,773.91,West,Shipped
+ORD-000269,6/18/2024,Customer 269,Tablet,Accessories,10,102.99,1029.9,Central,Processing
+ORD-000270,7/19/2023,Customer 270,Laptop Pro,Furniture,11,119.99,1319.89,North,Completed
+ORD-000271,8/20/2024,Customer 271,Wireless Mouse,Office,12,136.99,1643.88,South,Completed
+ORD-000272,9/21/2023,Customer 272,"Monitor 27""",Electronics,13,153.99,2001.87,East,Pending
+ORD-000273,10/22/2024,Customer 273,Keyboard,Accessories,14,170.99,2393.86,West,Shipped
+ORD-000274,11/23/2023,Customer 274,Webcam HD,Furniture,15,187.99,2819.85,Central,Processing
+ORD-000275,12/24/2024,Customer 275,Headphones,Office,16,204.99,3279.84,North,Completed
+ORD-000276,1/25/2023,Customer 276,USB Hub,Electronics,17,221.99,3773.83,South,Completed
+ORD-000277,2/26/2024,Customer 277,Desk Chair,Accessories,18,238.99,4301.82,East,Pending
+ORD-000278,3/27/2023,Customer 278,Standing Desk,Furniture,19,255.99,4863.81,West,Shipped
+ORD-000279,4/28/2024,Customer 279,Tablet,Office,20,272.99,5459.8,Central,Processing
+ORD-000280,5/1/2023,Customer 280,Laptop Pro,Electronics,1,289.99,289.99,North,Completed
+ORD-000281,6/2/2024,Customer 281,Wireless Mouse,Accessories,2,306.99,613.98,South,Completed
+ORD-000282,7/3/2023,Customer 282,"Monitor 27""",Furniture,3,323.99,971.97,East,Pending
+ORD-000283,8/4/2024,Customer 283,Keyboard,Office,4,340.99,1363.96,West,Shipped
+ORD-000284,9/5/2023,Customer 284,Webcam HD,Electronics,5,357.99,1789.95,Central,Processing
+ORD-000285,10/6/2024,Customer 285,Headphones,Accessories,6,374.99,2249.94,North,Completed
+ORD-000286,11/7/2023,Customer 286,USB Hub,Furniture,7,391.99,2743.93,South,Completed
+ORD-000287,12/8/2024,Customer 287,Desk Chair,Office,8,408.99,3271.92,East,Pending
+ORD-000288,1/9/2023,Customer 288,Standing Desk,Electronics,9,425.99,3833.91,West,Shipped
+ORD-000289,2/10/2024,Customer 289,Tablet,Accessories,10,442.99,4429.9,Central,Processing
+ORD-000290,3/11/2023,Customer 290,Laptop Pro,Furniture,11,459.99,5059.89,North,Completed
+ORD-000291,4/12/2024,Customer 291,Wireless Mouse,Office,12,476.99,5723.88,South,Completed
+ORD-000292,5/13/2023,Customer 292,"Monitor 27""",Electronics,13,493.99,6421.87,East,Pending
+ORD-000293,6/14/2024,Customer 293,Keyboard,Accessories,14,510.99,7153.86,West,Shipped
+ORD-000294,7/15/2023,Customer 294,Webcam HD,Furniture,15,527.99,7919.85,Central,Processing
+ORD-000295,8/16/2024,Customer 295,Headphones,Office,16,44.99,719.84,North,Completed
+ORD-000296,9/17/2023,Customer 296,USB Hub,Electronics,17,61.99,1053.83,South,Completed
+ORD-000297,10/18/2024,Customer 297,Desk Chair,Accessories,18,78.99,1421.82,East,Pending
+ORD-000298,11/19/2023,Customer 298,Standing Desk,Furniture,19,95.99,1823.81,West,Shipped
+ORD-000299,12/20/2024,Customer 299,Tablet,Office,20,112.99,2259.8,Central,Processing
+ORD-000300,1/21/2023,Customer 300,Laptop Pro,Electronics,1,129.99,129.99,North,Completed
+ORD-000301,2/22/2024,Customer 301,Wireless Mouse,Accessories,2,146.99,293.98,South,Completed
+ORD-000302,3/23/2023,Customer 302,"Monitor 27""",Furniture,3,163.99,491.97,East,Pending
+ORD-000303,4/24/2024,Customer 303,Keyboard,Office,4,180.99,723.96,West,Shipped
+ORD-000304,5/25/2023,Customer 304,Webcam HD,Electronics,5,197.99,989.95,Central,Processing
+ORD-000305,6/26/2024,Customer 305,Headphones,Accessories,6,214.99,1289.94,North,Completed
+ORD-000306,7/27/2023,Customer 306,USB Hub,Furniture,7,231.99,1623.93,South,Completed
+ORD-000307,8/28/2024,Customer 307,Desk Chair,Office,8,248.99,1991.92,East,Pending
+ORD-000308,9/1/2023,Customer 308,Standing Desk,Electronics,9,265.99,2393.91,West,Shipped
+ORD-000309,10/2/2024,Customer 309,Tablet,Accessories,10,282.99,2829.9,Central,Processing
+ORD-000310,11/3/2023,Customer 310,Laptop Pro,Furniture,11,299.99,3299.89,North,Completed
+ORD-000311,12/4/2024,Customer 311,Wireless Mouse,Office,12,316.99,3803.88,South,Completed
+ORD-000312,1/5/2023,Customer 312,"Monitor 27""",Electronics,13,333.99,4341.87,East,Pending
+ORD-000313,2/6/2024,Customer 313,Keyboard,Accessories,14,350.99,4913.86,West,Shipped
+ORD-000314,3/7/2023,Customer 314,Webcam HD,Furniture,15,367.99,5519.85,Central,Processing
+ORD-000315,4/8/2024,Customer 315,Headphones,Office,16,384.99,6159.84,North,Completed
+ORD-000316,5/9/2023,Customer 316,USB Hub,Electronics,17,401.99,6833.83,South,Completed
+ORD-000317,6/10/2024,Customer 317,Desk Chair,Accessories,18,418.99,7541.82,East,Pending
+ORD-000318,7/11/2023,Customer 318,Standing Desk,Furniture,19,435.99,8283.81,West,Shipped
+ORD-000319,8/12/2024,Customer 319,Tablet,Office,20,452.99,9059.8,Central,Processing
+ORD-000320,9/13/2023,Customer 320,Laptop Pro,Electronics,1,469.99,469.99,North,Completed
+ORD-000321,10/14/2024,Customer 321,Wireless Mouse,Accessories,2,486.99,973.98,South,Completed
+ORD-000322,11/15/2023,Customer 322,"Monitor 27""",Furniture,3,503.99,1511.97,East,Pending
+ORD-000323,12/16/2024,Customer 323,Keyboard,Office,4,520.99,2083.96,West,Shipped
+ORD-000324,1/17/2023,Customer 324,Webcam HD,Electronics,5,37.99,189.95,Central,Processing
+ORD-000325,2/18/2024,Customer 325,Headphones,Accessories,6,54.99,329.94,North,Completed
+ORD-000326,3/19/2023,Customer 326,USB Hub,Furniture,7,71.99,503.93,South,Completed
+ORD-000327,4/20/2024,Customer 327,Desk Chair,Office,8,88.99,711.92,East,Pending
+ORD-000328,5/21/2023,Customer 328,Standing Desk,Electronics,9,105.99,953.91,West,Shipped
+ORD-000329,6/22/2024,Customer 329,Tablet,Accessories,10,122.99,1229.9,Central,Processing
+ORD-000330,7/23/2023,Customer 330,Laptop Pro,Furniture,11,139.99,1539.89,North,Completed
+ORD-000331,8/24/2024,Customer 331,Wireless Mouse,Office,12,156.99,1883.88,South,Completed
+ORD-000332,9/25/2023,Customer 332,"Monitor 27""",Electronics,13,173.99,2261.87,East,Pending
+ORD-000333,10/26/2024,Customer 333,Keyboard,Accessories,14,190.99,2673.86,West,Shipped
+ORD-000334,11/27/2023,Customer 334,Webcam HD,Furniture,15,207.99,3119.85,Central,Processing
+ORD-000335,12/28/2024,Customer 335,Headphones,Office,16,224.99,3599.84,North,Completed
+ORD-000336,1/1/2023,Customer 336,USB Hub,Electronics,17,241.99,4113.83,South,Completed
+ORD-000337,2/2/2024,Customer 337,Desk Chair,Accessories,18,258.99,4661.82,East,Pending
+ORD-000338,3/3/2023,Customer 338,Standing Desk,Furniture,19,275.99,5243.81,West,Shipped
+ORD-000339,4/4/2024,Customer 339,Tablet,Office,20,292.99,5859.8,Central,Processing
+ORD-000340,5/5/2023,Customer 340,Laptop Pro,Electronics,1,309.99,309.99,North,Completed
+ORD-000341,6/6/2024,Customer 341,Wireless Mouse,Accessories,2,326.99,653.98,South,Completed
+ORD-000342,7/7/2023,Customer 342,"Monitor 27""",Furniture,3,343.99,1031.97,East,Pending
+ORD-000343,8/8/2024,Customer 343,Keyboard,Office,4,360.99,1443.96,West,Shipped
+ORD-000344,9/9/2023,Customer 344,Webcam HD,Electronics,5,377.99,1889.95,Central,Processing
+ORD-000345,10/10/2024,Customer 345,Headphones,Accessories,6,394.99,2369.94,North,Completed
+ORD-000346,11/11/2023,Customer 346,USB Hub,Furniture,7,411.99,2883.93,South,Completed
+ORD-000347,12/12/2024,Customer 347,Desk Chair,Office,8,428.99,3431.92,East,Pending
+ORD-000348,1/13/2023,Customer 348,Standing Desk,Electronics,9,445.99,4013.91,West,Shipped
+ORD-000349,2/14/2024,Customer 349,Tablet,Accessories,10,462.99,4629.9,Central,Processing
+ORD-000350,3/15/2023,Customer 350,Laptop Pro,Furniture,11,479.99,5279.89,North,Completed
+ORD-000351,4/16/2024,Customer 351,Wireless Mouse,Office,12,496.99,5963.88,South,Completed
+ORD-000352,5/17/2023,Customer 352,"Monitor 27""",Electronics,13,513.99,6681.87,East,Pending
+ORD-000353,6/18/2024,Customer 353,Keyboard,Accessories,14,30.99,433.86,West,Shipped
+ORD-000354,7/19/2023,Customer 354,Webcam HD,Furniture,15,47.99,719.85,Central,Processing
+ORD-000355,8/20/2024,Customer 355,Headphones,Office,16,64.99,1039.84,North,Completed
+ORD-000356,9/21/2023,Customer 356,USB Hub,Electronics,17,81.99,1393.83,South,Completed
+ORD-000357,10/22/2024,Customer 357,Desk Chair,Accessories,18,98.99,1781.82,East,Pending
+ORD-000358,11/23/2023,Customer 358,Standing Desk,Furniture,19,115.99,2203.81,West,Shipped
+ORD-000359,12/24/2024,Customer 359,Tablet,Office,20,132.99,2659.8,Central,Processing
+ORD-000360,1/25/2023,Customer 360,Laptop Pro,Electronics,1,149.99,149.99,North,Completed
+ORD-000361,2/26/2024,Customer 361,Wireless Mouse,Accessories,2,166.99,333.98,South,Completed
+ORD-000362,3/27/2023,Customer 362,"Monitor 27""",Furniture,3,183.99,551.97,East,Pending
+ORD-000363,4/28/2024,Customer 363,Keyboard,Office,4,200.99,803.96,West,Shipped
+ORD-000364,5/1/2023,Customer 364,Webcam HD,Electronics,5,217.99,1089.95,Central,Processing
+ORD-000365,6/2/2024,Customer 365,Headphones,Accessories,6,234.99,1409.94,North,Completed
+ORD-000366,7/3/2023,Customer 366,USB Hub,Furniture,7,251.99,1763.93,South,Completed
+ORD-000367,8/4/2024,Customer 367,Desk Chair,Office,8,268.99,2151.92,East,Pending
+ORD-000368,9/5/2023,Customer 368,Standing Desk,Electronics,9,285.99,2573.91,West,Shipped
+ORD-000369,10/6/2024,Customer 369,Tablet,Accessories,10,302.99,3029.9,Central,Processing
+ORD-000370,11/7/2023,Customer 370,Laptop Pro,Furniture,11,319.99,3519.89,North,Completed
+ORD-000371,12/8/2024,Customer 371,Wireless Mouse,Office,12,336.99,4043.88,South,Completed
+ORD-000372,1/9/2023,Customer 372,"Monitor 27""",Electronics,13,353.99,4601.87,East,Pending
+ORD-000373,2/10/2024,Customer 373,Keyboard,Accessories,14,370.99,5193.86,West,Shipped
+ORD-000374,3/11/2023,Customer 374,Webcam HD,Furniture,15,387.99,5819.85,Central,Processing
+ORD-000375,4/12/2024,Customer 375,Headphones,Office,16,404.99,6479.84,North,Completed
+ORD-000376,5/13/2023,Customer 376,USB Hub,Electronics,17,421.99,7173.83,South,Completed
+ORD-000377,6/14/2024,Customer 377,Desk Chair,Accessories,18,438.99,7901.82,East,Pending
+ORD-000378,7/15/2023,Customer 378,Standing Desk,Furniture,19,455.99,8663.81,West,Shipped
+ORD-000379,8/16/2024,Customer 379,Tablet,Office,20,472.99,9459.8,Central,Processing
+ORD-000380,9/17/2023,Customer 380,Laptop Pro,Electronics,1,489.99,489.99,North,Completed
+ORD-000381,10/18/2024,Customer 381,Wireless Mouse,Accessories,2,506.99,1013.98,South,Completed
+ORD-000382,11/19/2023,Customer 382,"Monitor 27""",Furniture,3,523.99,1571.97,East,Pending
+ORD-000383,12/20/2024,Customer 383,Keyboard,Office,4,40.99,163.96,West,Shipped
+ORD-000384,1/21/2023,Customer 384,Webcam HD,Electronics,5,57.99,289.95,Central,Processing
+ORD-000385,2/22/2024,Customer 385,Headphones,Accessories,6,74.99,449.94,North,Completed
+ORD-000386,3/23/2023,Customer 386,USB Hub,Furniture,7,91.99,643.93,South,Completed
+ORD-000387,4/24/2024,Customer 387,Desk Chair,Office,8,108.99,871.92,East,Pending
+ORD-000388,5/25/2023,Customer 388,Standing Desk,Electronics,9,125.99,1133.91,West,Shipped
+ORD-000389,6/26/2024,Customer 389,Tablet,Accessories,10,142.99,1429.9,Central,Processing
+ORD-000390,7/27/2023,Customer 390,Laptop Pro,Furniture,11,159.99,1759.89,North,Completed
+ORD-000391,8/28/2024,Customer 391,Wireless Mouse,Office,12,176.99,2123.88,South,Completed
+ORD-000392,9/1/2023,Customer 392,"Monitor 27""",Electronics,13,193.99,2521.87,East,Pending
+ORD-000393,10/2/2024,Customer 393,Keyboard,Accessories,14,210.99,2953.86,West,Shipped
+ORD-000394,11/3/2023,Customer 394,Webcam HD,Furniture,15,227.99,3419.85,Central,Processing
+ORD-000395,12/4/2024,Customer 395,Headphones,Office,16,244.99,3919.84,North,Completed
+ORD-000396,1/5/2023,Customer 396,USB Hub,Electronics,17,261.99,4453.83,South,Completed
+ORD-000397,2/6/2024,Customer 397,Desk Chair,Accessories,18,278.99,5021.82,East,Pending
+ORD-000398,3/7/2023,Customer 398,Standing Desk,Furniture,19,295.99,5623.81,West,Shipped
+ORD-000399,4/8/2024,Customer 399,Tablet,Office,20,312.99,6259.8,Central,Processing
+ORD-000400,5/9/2023,Customer 400,Laptop Pro,Electronics,1,329.99,329.99,North,Completed
+ORD-000401,6/10/2024,Customer 401,Wireless Mouse,Accessories,2,346.99,693.98,South,Completed
+ORD-000402,7/11/2023,Customer 402,"Monitor 27""",Furniture,3,363.99,1091.97,East,Pending
+ORD-000403,8/12/2024,Customer 403,Keyboard,Office,4,380.99,1523.96,West,Shipped
+ORD-000404,9/13/2023,Customer 404,Webcam HD,Electronics,5,397.99,1989.95,Central,Processing
+ORD-000405,10/14/2024,Customer 405,Headphones,Accessories,6,414.99,2489.94,North,Completed
+ORD-000406,11/15/2023,Customer 406,USB Hub,Furniture,7,431.99,3023.93,South,Completed
+ORD-000407,12/16/2024,Customer 407,Desk Chair,Office,8,448.99,3591.92,East,Pending
+ORD-000408,1/17/2023,Customer 408,Standing Desk,Electronics,9,465.99,4193.91,West,Shipped
+ORD-000409,2/18/2024,Customer 409,Tablet,Accessories,10,482.99,4829.9,Central,Processing
+ORD-000410,3/19/2023,Customer 410,Laptop Pro,Furniture,11,499.99,5499.89,North,Completed
+ORD-000411,4/20/2024,Customer 411,Wireless Mouse,Office,12,516.99,6203.88,South,Completed
+ORD-000412,5/21/2023,Customer 412,"Monitor 27""",Electronics,13,33.99,441.87,East,Pending
+ORD-000413,6/22/2024,Customer 413,Keyboard,Accessories,14,50.99,713.86,West,Shipped
+ORD-000414,7/23/2023,Customer 414,Webcam HD,Furniture,15,67.99,1019.85,Central,Processing
+ORD-000415,8/24/2024,Customer 415,Headphones,Office,16,84.99,1359.84,North,Completed
+ORD-000416,9/25/2023,Customer 416,USB Hub,Electronics,17,101.99,1733.83,South,Completed
+ORD-000417,10/26/2024,Customer 417,Desk Chair,Accessories,18,118.99,2141.82,East,Pending
+ORD-000418,11/27/2023,Customer 418,Standing Desk,Furniture,19,135.99,2583.81,West,Shipped
+ORD-000419,12/28/2024,Customer 419,Tablet,Office,20,152.99,3059.8,Central,Processing
+ORD-000420,1/1/2023,Customer 420,Laptop Pro,Electronics,1,169.99,169.99,North,Completed
+ORD-000421,2/2/2024,Customer 421,Wireless Mouse,Accessories,2,186.99,373.98,South,Completed
+ORD-000422,3/3/2023,Customer 422,"Monitor 27""",Furniture,3,203.99,611.97,East,Pending
+ORD-000423,4/4/2024,Customer 423,Keyboard,Office,4,220.99,883.96,West,Shipped
+ORD-000424,5/5/2023,Customer 424,Webcam HD,Electronics,5,237.99,1189.95,Central,Processing
+ORD-000425,6/6/2024,Customer 425,Headphones,Accessories,6,254.99,1529.94,North,Completed
+ORD-000426,7/7/2023,Customer 426,USB Hub,Furniture,7,271.99,1903.93,South,Completed
+ORD-000427,8/8/2024,Customer 427,Desk Chair,Office,8,288.99,2311.92,East,Pending
+ORD-000428,9/9/2023,Customer 428,Standing Desk,Electronics,9,305.99,2753.91,West,Shipped
+ORD-000429,10/10/2024,Customer 429,Tablet,Accessories,10,322.99,3229.9,Central,Processing
+ORD-000430,11/11/2023,Customer 430,Laptop Pro,Furniture,11,339.99,3739.89,North,Completed
+ORD-000431,12/12/2024,Customer 431,Wireless Mouse,Office,12,356.99,4283.88,South,Completed
+ORD-000432,1/13/2023,Customer 432,"Monitor 27""",Electronics,13,373.99,4861.87,East,Pending
+ORD-000433,2/14/2024,Customer 433,Keyboard,Accessories,14,390.99,5473.86,West,Shipped
+ORD-000434,3/15/2023,Customer 434,Webcam HD,Furniture,15,407.99,6119.85,Central,Processing
+ORD-000435,4/16/2024,Customer 435,Headphones,Office,16,424.99,6799.84,North,Completed
+ORD-000436,5/17/2023,Customer 436,USB Hub,Electronics,17,441.99,7513.83,South,Completed
+ORD-000437,6/18/2024,Customer 437,Desk Chair,Accessories,18,458.99,8261.82,East,Pending
+ORD-000438,7/19/2023,Customer 438,Standing Desk,Furniture,19,475.99,9043.81,West,Shipped
+ORD-000439,8/20/2024,Customer 439,Tablet,Office,20,492.99,9859.8,Central,Processing
+ORD-000440,9/21/2023,Customer 440,Laptop Pro,Electronics,1,509.99,509.99,North,Completed
+ORD-000441,10/22/2024,Customer 441,Wireless Mouse,Accessories,2,526.99,1053.98,South,Completed
+ORD-000442,11/23/2023,Customer 442,"Monitor 27""",Furniture,3,43.99,131.97,East,Pending
+ORD-000443,12/24/2024,Customer 443,Keyboard,Office,4,60.99,243.96,West,Shipped
+ORD-000444,1/25/2023,Customer 444,Webcam HD,Electronics,5,77.99,389.95,Central,Processing
+ORD-000445,2/26/2024,Customer 445,Headphones,Accessories,6,94.99,569.94,North,Completed
+ORD-000446,3/27/2023,Customer 446,USB Hub,Furniture,7,111.99,783.93,South,Completed
+ORD-000447,4/28/2024,Customer 447,Desk Chair,Office,8,128.99,1031.92,East,Pending
+ORD-000448,5/1/2023,Customer 448,Standing Desk,Electronics,9,145.99,1313.91,West,Shipped
+ORD-000449,6/2/2024,Customer 449,Tablet,Accessories,10,162.99,1629.9,Central,Processing
+ORD-000450,7/3/2023,Customer 450,Laptop Pro,Furniture,11,179.99,1979.89,North,Completed
+ORD-000451,8/4/2024,Customer 451,Wireless Mouse,Office,12,196.99,2363.88,South,Completed
+ORD-000452,9/5/2023,Customer 452,"Monitor 27""",Electronics,13,213.99,2781.87,East,Pending
+ORD-000453,10/6/2024,Customer 453,Keyboard,Accessories,14,230.99,3233.86,West,Shipped
+ORD-000454,11/7/2023,Customer 454,Webcam HD,Furniture,15,247.99,3719.85,Central,Processing
+ORD-000455,12/8/2024,Customer 455,Headphones,Office,16,264.99,4239.84,North,Completed
+ORD-000456,1/9/2023,Customer 456,USB Hub,Electronics,17,281.99,4793.83,South,Completed
+ORD-000457,2/10/2024,Customer 457,Desk Chair,Accessories,18,298.99,5381.82,East,Pending
+ORD-000458,3/11/2023,Customer 458,Standing Desk,Furniture,19,315.99,6003.81,West,Shipped
+ORD-000459,4/12/2024,Customer 459,Tablet,Office,20,332.99,6659.8,Central,Processing
+ORD-000460,5/13/2023,Customer 460,Laptop Pro,Electronics,1,349.99,349.99,North,Completed
+ORD-000461,6/14/2024,Customer 461,Wireless Mouse,Accessories,2,366.99,733.98,South,Completed
+ORD-000462,7/15/2023,Customer 462,"Monitor 27""",Furniture,3,383.99,1151.97,East,Pending
+ORD-000463,8/16/2024,Customer 463,Keyboard,Office,4,400.99,1603.96,West,Shipped
+ORD-000464,9/17/2023,Customer 464,Webcam HD,Electronics,5,417.99,2089.95,Central,Processing
+ORD-000465,10/18/2024,Customer 465,Headphones,Accessories,6,434.99,2609.94,North,Completed
+ORD-000466,11/19/2023,Customer 466,USB Hub,Furniture,7,451.99,3163.93,South,Completed
+ORD-000467,12/20/2024,Customer 467,Desk Chair,Office,8,468.99,3751.92,East,Pending
+ORD-000468,1/21/2023,Customer 468,Standing Desk,Electronics,9,485.99,4373.91,West,Shipped
+ORD-000469,2/22/2024,Customer 469,Tablet,Accessories,10,502.99,5029.9,Central,Processing
+ORD-000470,3/23/2023,Customer 470,Laptop Pro,Furniture,11,519.99,5719.89,North,Completed
+ORD-000471,4/24/2024,Customer 471,Wireless Mouse,Office,12,36.99,443.88,South,Completed
+ORD-000472,5/25/2023,Customer 472,"Monitor 27""",Electronics,13,53.99,701.87,East,Pending
+ORD-000473,6/26/2024,Customer 473,Keyboard,Accessories,14,70.99,993.86,West,Shipped
+ORD-000474,7/27/2023,Customer 474,Webcam HD,Furniture,15,87.99,1319.85,Central,Processing
+ORD-000475,8/28/2024,Customer 475,Headphones,Office,16,104.99,1679.84,North,Completed
+ORD-000476,9/1/2023,Customer 476,USB Hub,Electronics,17,121.99,2073.83,South,Completed
+ORD-000477,10/2/2024,Customer 477,Desk Chair,Accessories,18,138.99,2501.82,East,Pending
+ORD-000478,11/3/2023,Customer 478,Standing Desk,Furniture,19,155.99,2963.81,West,Shipped
+ORD-000479,12/4/2024,Customer 479,Tablet,Office,20,172.99,3459.8,Central,Processing
+ORD-000480,1/5/2023,Customer 480,Laptop Pro,Electronics,1,189.99,189.99,North,Completed
+ORD-000481,2/6/2024,Customer 481,Wireless Mouse,Accessories,2,206.99,413.98,South,Completed
+ORD-000482,3/7/2023,Customer 482,"Monitor 27""",Furniture,3,223.99,671.97,East,Pending
+ORD-000483,4/8/2024,Customer 483,Keyboard,Office,4,240.99,963.96,West,Shipped
+ORD-000484,5/9/2023,Customer 484,Webcam HD,Electronics,5,257.99,1289.95,Central,Processing
+ORD-000485,6/10/2024,Customer 485,Headphones,Accessories,6,274.99,1649.94,North,Completed
+ORD-000486,7/11/2023,Customer 486,USB Hub,Furniture,7,291.99,2043.93,South,Completed
+ORD-000487,8/12/2024,Customer 487,Desk Chair,Office,8,308.99,2471.92,East,Pending
+ORD-000488,9/13/2023,Customer 488,Standing Desk,Electronics,9,325.99,2933.91,West,Shipped
+ORD-000489,10/14/2024,Customer 489,Tablet,Accessories,10,342.99,3429.9,Central,Processing
+ORD-000490,11/15/2023,Customer 490,Laptop Pro,Furniture,11,359.99,3959.89,North,Completed
+ORD-000491,12/16/2024,Customer 491,Wireless Mouse,Office,12,376.99,4523.88,South,Completed
+ORD-000492,1/17/2023,Customer 492,"Monitor 27""",Electronics,13,393.99,5121.87,East,Pending
+ORD-000493,2/18/2024,Customer 493,Keyboard,Accessories,14,410.99,5753.86,West,Shipped
+ORD-000494,3/19/2023,Customer 494,Webcam HD,Furniture,15,427.99,6419.85,Central,Processing
+ORD-000495,4/20/2024,Customer 495,Headphones,Office,16,444.99,7119.84,North,Completed
+ORD-000496,5/21/2023,Customer 496,USB Hub,Electronics,17,461.99,7853.83,South,Completed
+ORD-000497,6/22/2024,Customer 497,Desk Chair,Accessories,18,478.99,8621.82,East,Pending
+ORD-000498,7/23/2023,Customer 498,Standing Desk,Furniture,19,495.99,9423.81,West,Shipped
+ORD-000499,8/24/2024,Customer 499,Tablet,Office,20,512.99,10259.8,Central,Processing
+ORD-000500,9/25/2023,Customer 500,Laptop Pro,Electronics,1,29.99,29.99,North,Completed
