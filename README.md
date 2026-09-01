@@ -43,12 +43,6 @@ End-to-end ETL pipeline built on **Databricks Delta Live Tables (DLT)**, followi
 
 Ingests raw CSV data as-is into a Delta table using Databricks Autoloader (`cloudFiles`), with no transformation — single source of truth for raw data.
 
-```
-
-> Replace the `load()` path with your actual source location (Volume / DBFS / cloud storage path).
-
-**Source columns:** `Order_ID, Date, Customer, Product, Category, Quantity, Unit_Price, Total, Region, Status`
-
 ---
 
 ##  Silver Layer — Cleaning & Deduplication
