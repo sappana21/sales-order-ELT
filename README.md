@@ -12,7 +12,7 @@ End-to-end ETL pipeline built on **Databricks Delta Live Tables (DLT)**, followi
 │ (Raw Ingest) │      │ (Cleaned)    │      │  (Business Aggregates)   │
 └─────────────┘      └─────────────┘      └─────────────────────────┘
    sales_bronze          sales_silver         sales_gold_region_category
-   (CSV → Delta)      (dedup, selected 
+   (CSV → Delta)      (dedup, selected        sales_gold_product_performance
                         columns)               sales_gold_status_summary
                                                 sales_gold_customer_summary
 ```
@@ -39,26 +39,41 @@ End-to-end ETL pipeline built on **Databricks Delta Live Tables (DLT)**, followi
 
 ---
 
-## Bronze Layer — Raw Ingestion
+##  Bronze Layer — Raw Ingestion
 
 Ingests raw CSV data as-is into a Delta table using Databricks Autoloader (`cloudFiles`), with no transformation — single source of truth for raw data.
+
+```
+
+> Replace the `load()` path with your actual source location (Volume / DBFS / cloud storage path).
+
+**Source columns:** `Order_ID, Date, Customer, Product, Category, Quantity, Unit_Price, Total, Region, Status`
 
 ---
 
 ##  Silver Layer — Cleaning & Deduplication
 
-Selects relevant columns and removes duplicate orders 
+Selects relevant columns and removes duplicate orders (based on `Order_ID`).
+
+```
 
 **Transformations applied:**
-- Selected only business-relevant columns
+- Selected only business-relevant columns (dropped `Date` — add back if time-based trends needed)
 - Deduplicated on `Order_ID` to ensure one record per order
 
 ---
 
 ##  Gold Layer — Business Aggregations
 
-Three aggregated tables built on top of `sales_silver`, each serving a different business reporting need.
+Four aggregated tables built on top of `sales_silver`, each serving a different business reporting need.
 
+
+```
+
+
+**Business use:** Distinguishes realized revenue (Completed) from at-risk / in-pipeline revenue (Pending/Processing/Shipped) — useful for operational bottleneck tracking.
+
+---
 
 ##  How to Run
 
