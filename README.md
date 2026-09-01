@@ -12,7 +12,7 @@ End-to-end ETL pipeline built on **Databricks Delta Live Tables (DLT)**, followi
 │ (Raw Ingest) │      │ (Cleaned)    │      │  (Business Aggregates)   │
 └─────────────┘      └─────────────┘      └─────────────────────────┘
    sales_bronze          sales_silver         sales_gold_region_category
-   (CSV → Delta)      (dedup, selected        sales_gold_product_performance
+   (CSV → Delta)      (dedup, selected 
                         columns)               sales_gold_status_summary
                                                 sales_gold_customer_summary
 ```
